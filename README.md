@@ -1,7 +1,6 @@
 # 📊 Kimia Farma Performance Analytics Dashboard
 
 ![Dashboard Preview](assets/dashboard_homepage.png)
-*(Catatan: Ganti 'assets/dashboard_preview.png' dengan path screenshot dashboard utama kamu)*
 
 ## 📖 Overview
 Proyek ini adalah dashboard analitik untuk mengevaluasi kinerja penjualan Kimia Farma. Dashboard ini dirancang untuk memantau Key Performance Indicators (KPI) utama seperti total penjualan, pencapaian target, dan kepuasan pelanggan di berbagai cabang.
